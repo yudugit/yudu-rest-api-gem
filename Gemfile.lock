@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    yudu (0.1.0)
+    yudu (0.0.1)
       crack (~> 0.4.3)
       httparty (~> 0.13.7)
 

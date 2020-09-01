@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require "yudu/version"
 require "openssl"
 require "base64"
